@@ -1,2 +1,1 @@
-# django
-play with django
+# django projects
